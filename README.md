@@ -50,3 +50,4 @@ If shipping allows, batteries are included. The PCB features a micro JST connect
 2. **Build:** GitHub Actions will automatically compile your firmware.
 3. **Download:** Grab the `firmware.uf2` from the Actions tab.
 4. **Install:** Connect the board via USB, double-tap the reset button, and drag the file onto the drive.
+
